@@ -1,1 +1,1 @@
-# kazuya-abe-astro_base01.github.io
+# astro_base01.github.io
